@@ -1,4 +1,4 @@
-# PyQubit v0.3 (first version)
+# PyQubit v0.3.1 (first version)
 
 [![PyPI version](https://img.shields.io/pypi/v/pyqubit.svg)](https://pypi.org/project/pyqubit/)
 [![Python Version](https://img.shields.io/pypi/pyversions/pyqubit.svg)](https://pypi.org/project/pyqubit/)
