@@ -1,0 +1,4 @@
+build/
+dist/
+pyqubit.egg-info/
+__pycache__/ 
