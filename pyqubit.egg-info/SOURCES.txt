@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-pyqubit/__init__.py
-pyqubit.egg-info/PKG-INFO
-pyqubit.egg-info/SOURCES.txt
-pyqubit.egg-info/dependency_links.txt
-pyqubit.egg-info/top_level.txt
