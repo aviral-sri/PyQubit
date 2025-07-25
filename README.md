@@ -52,7 +52,7 @@ print(q.probabilities())
 
 ```bash
 
-# pip install pyqubit
+pip install pyqubit
 ```
 
 ---
