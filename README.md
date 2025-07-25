@@ -48,10 +48,10 @@ print(q.probabilities())
 
 ## 🧩 Installation
 
-Currently, you can use PyQubit by including the `qubit.py` file directly in your project.
+
 
 ```bash
-# (Future installation via pip)
+
 # pip install pyqubit
 ```
 
