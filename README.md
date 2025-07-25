@@ -6,6 +6,8 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/pyqubit.svg)](https://pypi.org/project/pyqubit/)
 [![Python Version](https://img.shields.io/pypi/pyversions/pyqubit.svg)](https://pypi.org/project/pyqubit/)
+[![Downloads](https://pepy.tech/badge/pyqubit)](https://pepy.tech/project/pyqubit)
+
 
 A simple and intuitive Python class for single-qubit simulation.
 
