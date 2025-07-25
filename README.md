@@ -1,6 +1,6 @@
 # PyQubit v0.3.1 (first version)
 <p align="center">
-  <img src="logo.svg" alt="PyQubit logo" height="100"/>
+  <img src="LOGO.svg" alt="PyQubit logo" height="100"/>
 </p>
 
 
