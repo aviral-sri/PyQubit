@@ -1,4 +1,8 @@
 # PyQubit v0.3.1 (first version)
+<p align="center">
+  <img src="logo.svg" alt="PyQubit logo" height="100"/>
+</p>
+
 
 [![PyPI version](https://img.shields.io/pypi/v/pyqubit.svg)](https://pypi.org/project/pyqubit/)
 [![Python Version](https://img.shields.io/pypi/pyversions/pyqubit.svg)](https://pypi.org/project/pyqubit/)
