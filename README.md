@@ -51,6 +51,9 @@ print(q.probabilities())
 - **Probability Inspection**: Easily retrieve the probabilities of measuring the qubit in the ∣0⟩ or ∣1⟩ state.
 
 ---
+## v/s Qiskit
+<img width="775" height="348" alt="image" src="https://github.com/user-attachments/assets/453400c0-b6e2-4bcd-b10f-032bb894025a" />
+
 
 ## 🧩 Installation
 
