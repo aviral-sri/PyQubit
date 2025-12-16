@@ -52,7 +52,8 @@ print(q.probabilities())
 
 ---
 ## v/s Qiskit
-<img width="775" height="348" alt="image" src="https://github.com/user-attachments/assets/453400c0-b6e2-4bcd-b10f-032bb894025a" />
+<img width="775" height="281" alt="image" src="https://github.com/user-attachments/assets/e8762b75-fe3e-4057-a4eb-17c89b42f770" />
+
 
 
 ## 🧩 Installation
